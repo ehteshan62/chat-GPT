@@ -4,7 +4,7 @@ import pyttsx3
 
 
  #  Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = //"enter you API key which you can copy from your chatgpt"
 
 # this loop will let us ask questions continuously and behave like ChatGPT
 while True:
